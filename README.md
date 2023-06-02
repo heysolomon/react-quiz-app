@@ -1,16 +1,16 @@
 # React Quiz App 
-Bu projede, React Hooks ve HTML&CSS kullanarak Ingilizcede ki tüm seviyeler için kelime bilginizi ölçebileceğiniz bir test uygulaması geliştirdim. Uygulamada Ingilizce A1, A2, B1, B2, C1 ve C2 olmak üzere her bir seviye için 20 soruluk bir kelime testi bulunmaktadır.
+In this project, I developed a test application to measure your English vocabulary for all levels using React Hooks and HTML&CSS. In the application, there is a 20-question word test for each level of English A1, A2, B1, B2, C1 and C2.
 
-Test içerisinde her bir soru tek tek gösterilmektedir. Soruyu cevaplamanız için 30 saniye süreniz bulunmaktadır. 30 saniye içerisinde soruda verilen şıklardan birini işaretlemeniz ve diğer soruya geçmeniz gerekmektedir. Süre bitene kadar soruyu cevaplamazsanız cevabınız otomatik olarak boş sayılacak ve diğer soruya geçeceksiniz.
+Each question in the test is shown one by one. You have 30 seconds to answer the question. Within 30 seconds, you must mark one of the options given in the question and move on to the next question. If you do not answer the question until the time is up, your answer will be automatically blank and you will move on to the next question.
 
-Test içerisinde ilerlemenizi görebilirsiniz. Test bittiğinde testi yüzde kaç oranında doğru cevapladığınızı görebilirsiniz. Tüm cevaplarınızın doğruluğunu kontrol edebilirsiniz. Yanlış cevap verdiğiniz soruyu bularak doğrusunu öğrenebilirsiniz. Her seviyedeki testi çözebilirsiniz.
+You can see your progress in the test. When the test is over, you can see how many percent you answered the test correctly. You can check the accuracy of all your answers. You can find out the correct answer by finding the question you answered incorrectly. You can solve the test in each level.
 
-Testleri kolaydan zora doğru sırayla çözerek kendinizi test edebilir ve Ingilizcenizi geliştirebilirsiniz.
+You can test yourself and improve your English by solving the tests in order from easy to difficult.
 
-Proje içerisine farklı başlıklarda ve konularda testler eklenebilmektedir.
+Tests on different topics and subjects can be added to the project.
 
-## Uygulama Linki
-Proje içerisinde bulunan Ingilizce kelime testlerini çözmek ve sonuçlarını görmek için [buraya](https://quiz.yasinakbulut.com) tıklayabilirsiniz. 
+## Application Link
+To solve the English word tests in the project and see the results [here](https://quiz.yasinakbulut.com) you can click. 
 
 ## Screenshots
 
